@@ -4,7 +4,8 @@
   "description": "Package to help track the element in the viewport.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Favot/visibility-tracker-react-native/issues"
   },
-  "homepage": "https://github.com/Favot/visibility-tracker-react-native#readme"
+  "homepage": "https://github.com/Favot/visibility-tracker-react-native#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  },
+  "peerDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.65.1"
+  }
 }
