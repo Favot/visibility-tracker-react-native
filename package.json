@@ -1,0 +1,19 @@
+{
+  "name": "visibility-tracker-react-native",
+  "version": "1.0.0",
+  "description": "Package to help track the element in the viewport.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Favot/visibility-tracker-react-native.git"
+  },
+  "author": "Favot Corentin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Favot/visibility-tracker-react-native/issues"
+  },
+  "homepage": "https://github.com/Favot/visibility-tracker-react-native#readme"
+}
